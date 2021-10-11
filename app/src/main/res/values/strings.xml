@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Application Graphics</string>
+    <string name="img_selected_user">Imagem a ser selecionada pelo usuada</string>
+    <string name="select_image">SELECIONAR IMAGE</string>
+</resources>
